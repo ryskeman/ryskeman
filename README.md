@@ -17,7 +17,7 @@
 - 🔭 **Currently building:** `Python Modules / Core 42 Curriculum`
 - 🧠 **Engineering focus:** Systems architecture, game engine tooling, algorithmic optimization, and zero-leak memory management.
 - 📍 **Based in:** Madrid, Spain
-- 📫 **Connect:** [GitHub](https://github.com/ryskeman) · [LinkedIn](https://www.linkedin.com/in/fernando-paris)
+- 📫 **Connect:** [GitHub](https://github.com/ryskeman) · [LinkedIn](https://www.linkedin.com/in/fernandoj-fernandezparis/)
 
 <br clear="right"/>
 
