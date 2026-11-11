@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=root%4042madrid:~%24+.%2Finit_profile.sh;Low-Level+Systems+%7C+Game+Engines+%7C+Algorithms;C+%7C+C%2B%2B+%7C+C%23+%7C+Python+%7C+UNIX+%2F+POSIX+API" alt="Typing Terminal SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00A63C&center=true&vCenter=true&width=650&lines=root%4042madrid:~%24+.%2Finit_profile.sh;Low-Level+Systems+%7C+Game+Engines+%7C+Algorithms;C+%7C+C%2B%2B+%7C+C%23+%7C+Python+%7C+UNIX+%2F+POSIX+API" alt="Typing Terminal SVG" />
 </div>
 
 ---
@@ -39,9 +39,9 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Valgrind-Memory_Clean-success?style=flat-square" alt="Valgrind" />
+  <img src="https://img.shields.io/badge/Valgrind-Memory_Analysis-informational?style=flat-square" alt="Valgrind" />
   <img src="https://img.shields.io/badge/GDB-Debugging-critical?style=flat-square" alt="GDB" />
-  <img src="https://img.shields.io/badge/Norminette-Passing-brightgreen?style=flat-square" alt="Norminette" />
+  <img src="https://img.shields.io/badge/Norminette-42_Code_Style-informational?style=flat-square" alt="Norminette" />
   <img src="https://img.shields.io/badge/Flake8-PEP_8-blue?style=flat-square" alt="Flake8" />
 </p>
 
