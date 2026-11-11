@@ -1,14 +1,24 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Fernando+Paris+(ryskeman);Software+Developer+%40+42+Madrid;C+%7C+Python+%7C+Systems+Programming" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:003B00,100:00FF41&height=180&section=header&text=Fernando%20Paris&fontSize=45&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=Systems%20Programming%20%7C%20C%20%7C%20Python%20%40%2042%20Madrid&descAlignY=60&descSize=18" width="100%" alt="Matrix Header" />
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=root%4042madrid:~%24+.%2Finit_profile.sh;Low-Level+Systems+%7C+Memory+Management+%7C+Algorithms;C+%7C+Python+3+%7C+UNIX+%2F+POSIX+API" alt="Typing Terminal SVG" />
+</div>
+
+---
+
 ### 👨‍💻 About Me
+
+<img align="right" width="240" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Terminal Coding GIF" />
 
 **Software Developer** trained under the peer-to-peer, project-based methodology at **42 Madrid**. Focused on low-level systems programming in **C** (manual memory management, UNIX processes/signals, 3D graphics rendering) and software development in **Python**.
 
 - 🔭 **Currently building:** `Python Modules / Core 42 Curriculum`
 - 🧠 **Engineering focus:** Systems architecture, algorithmic optimization, zero-leak memory management, and strict code standards (`Norminette` / `PEP 8`).
 - 📍 **Based in:** Madrid, Spain
+
+<br clear="right"/>
 
 ---
 
